@@ -5,6 +5,7 @@ Planning Method in OOP:
 4. Start writing/coding the classes with pass statement
 5. Think about what methods each class can have.
 6. To place methods in correct classes the method should relate like {method} what {class} eg: def book() -> Hotel class
+7. This will be a simple CLI APP.
 
 Hotel booking app:
 
