@@ -1,0 +1,17 @@
+Planning Method in OOP:
+1. List out the overall requirements in bullet points.
+2. Figure out which classes to be created
+3. Look for nouns in the requirements to find class names/logic
+
+
+Hotel booking app:
+
+Users can see the list of hotels
+User can book a hotel
+User can get a reservation confirmation/ticket
+
+Finding out to classes to be used:
+
+User
+Hotel
+ReservationTicket
